@@ -3,22 +3,11 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-.env
 venv/
 env/
 
 # Node
 node_modules/
-
-# Database
-*.db
-*.sqlite
-
-# Output files (generated)
-outputs/
-
-# Uploads
-uploads/
 
 # OS
 .DS_Store
